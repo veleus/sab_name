@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons"/>
+  <qresource prefix="newPrefix">
+    <file>face_3_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>face_6_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>pan_tool_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>spa_FILL0_wght400_GRAD0_opsz24.svg</file>
+  </qresource>
+</RCC>
