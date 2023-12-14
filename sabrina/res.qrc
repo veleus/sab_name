@@ -1,11 +1,12 @@
 <RCC>
-  <qresource prefix="icons"/>
-  <qresource prefix="newPrefix">
+  <qresource prefix="icons">
+    <file>pretty_girls_07(1)-round.png</file>
+    <file>pretty_girls_08(2)-round.png</file>
+    <file>pretty_girls_17(1)-round.png</file>
+    <file>girls1(1)-round.png</file>
+    <file>close_FILL0_wght400_GRAD0_opsz24.svg</file>
     <file>face_3_FILL0_wght400_GRAD0_opsz24.svg</file>
-    <file>face_6_FILL0_wght400_GRAD0_opsz24.svg</file>
     <file>pan_tool_FILL0_wght400_GRAD0_opsz24.svg</file>
-  </qresource>
-  <qresource prefix="newPrefix">
     <file>spa_FILL0_wght400_GRAD0_opsz24.svg</file>
   </qresource>
 </RCC>
